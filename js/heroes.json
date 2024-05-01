@@ -1,0 +1,498 @@
+[
+    {
+        "nombre": "Masha",
+        "img": "../img/Heroes/01.png"
+    },
+    {
+        "nombre": "Minotauro",
+        "img": "../img/Heroes/02.jpg"
+    },
+    {
+        "nombre": "Floryn",
+        "img": "../img/Heroes/03.png"
+    },
+    {
+        "nombre": "Argus",
+        "img": "../img/Heroes/04.png"
+    },
+    {
+        "nombre": "Moskov",
+        "img": "../img/Heroes/05.png"
+    },
+    {
+        "nombre": "Mathilda",
+        "img": "../img/Heroes/06.jpg"
+    },
+    {
+        "nombre": "Barats",
+        "img": "../img/Heroes/07.jpg"
+    },
+    {
+        "nombre": "Khaleed (el arenas)",
+        "img": "../img/Heroes/08.jpg"
+    },
+    {
+        "nombre": "Popol y Kupa",
+        "img": "../img/Heroes/09.jpg"
+    },
+    {
+        "nombre": "Belerick",
+        "img": "../img/Heroes/10.jpg"
+    },
+    {
+        "nombre": "Benedetta",
+        "img": "../img/Heroes/11.jpg"
+    },
+    {
+        "nombre": "Yi Sun-Shin",
+        "img": "../img/Heroes/12.jpg"
+    },
+    {
+        "nombre": "Rafaela",
+        "img": "../img/Heroes/13.png"
+    },
+    {
+        "nombre": "Zhask (cucarachon)",
+        "img": "../img/Heroes/14.png"
+    },
+    {
+        "nombre": "Gatotkaca",
+        "img": "../img/Heroes/15.png"
+    },
+    {
+        "nombre": "Xborg",
+        "img": "../img/Heroes/16.png"
+    },
+    {
+        "nombre": "Lolita",
+        "img": "../img/Heroes/17.png"
+    },
+    {
+        "nombre": "Aulus",
+        "img": "../img/Heroes/18.jpg"
+    },
+    {
+        "nombre": "Hylos",
+        "img": "../img/Heroes/19.png"
+    },
+    {
+        "nombre": "Melissa",
+        "img": "../img/Heroes/20.png"
+    },
+    {
+        "nombre": "Diggie",
+        "img": "../img/Heroes/21.png"
+    },
+    {
+        "nombre": "Phoveus",
+        "img": "../img/Heroes/22.png"
+    },
+    {
+        "nombre": "Edith",
+        "img": "../img/Heroes/23.png"
+    },
+    {
+        "nombre": "Angela",
+        "img": "../img/Heroes/24.png"
+    },
+    {
+        "nombre": "Roger",
+        "img": "../img/Heroes/25.png"
+    },
+    {
+        "nombre": "Ruby",
+        "img": "../img/Heroes/26.png"
+    },
+    {
+        "nombre": "Vale",
+        "img": "../img/Heroes/27.png"
+    },
+    {
+        "nombre": "Harley",
+        "img": "../img/Heroes/28.png"
+    },
+    {
+        "nombre": "Fredrinn",
+        "img": "../img/Heroes/29.png"
+    },
+    {
+        "nombre": "Carmilla",
+        "img": "../img/Heroes/30.jpg"
+    },
+    {
+        "nombre": "Vexana",
+        "img": "../img/Heroes/31.png"
+    },
+    {
+        "nombre": "Ixia",
+        "img": "../img/Heroes/32.jpg"
+    },
+    {
+        "nombre": "Natalia",
+        "img": "../img/Heroes/33.png"
+    },
+    {
+        "nombre": "Alice",
+        "img": "../img/Heroes/34.png"
+    },
+    {
+        "nombre": "Odette",
+        "img": "../img/Heroes/35.png"
+    },
+    {
+        "nombre": "Luo Yi",
+        "img": "../img/Heroes/36.jpg"
+    },
+    {
+        "nombre": "Terizla",
+        "img": "../img/Heroes/37.png"
+    },
+    {
+        "nombre": "Yu Zhong",
+        "img": "../img/Heroes/38.jpg"
+    },
+    {
+        "nombre": "Gloo",
+        "img": "../img/Heroes/39.png"
+    },
+    {
+        "nombre": "Alpha",
+        "img": "../img/Heroes/40.jpg"
+    },
+    {
+        "nombre": "Silvanna",
+        "img": "../img/Heroes/41.png"
+    },
+    {
+        "nombre": "Estes (curaplus)",
+        "img": "../img/Heroes/42.png"
+    },
+    {
+        "nombre": "Lilya",
+        "img": "../img/Heroes/43.png"
+    },
+    {
+        "nombre": "Aldous",
+        "img": "../img/Heroes/44.png"
+    },
+    {
+        "nombre": "Sun",
+        "img": "../img/Heroes/45.png"
+    },
+    {
+        "nombre": "Alucard",
+        "img": "../img/Heroes/46.jpg"
+    },
+    {
+        "nombre": "Minsitthar",
+        "img": "../img/Heroes/47.png"
+    },
+    {
+        "nombre": "Gord",
+        "img": "../img/Heroes/48.png"
+    },
+    {
+        "nombre": "Ciclope",
+        "img": "../img/Heroes/49.png"
+    },
+    {
+        "nombre": "Julian",
+        "img": "../img/Heroes/50.png"
+    },
+    {
+        "nombre": "Urano",
+        "img": "../img/Heroes/51.png"
+    },
+    {
+        "nombre": "Cici",
+        "img": "../img/Heroes/52.png"
+    },
+    {
+        "nombre": "Natan",
+        "img": "../img/Heroes/53.png"
+    },
+    {
+        "nombre": "Baxia",
+        "img": "../img/Heroes/54.png"
+    },
+    {
+        "nombre": "Granger",
+        "img": "../img/Heroes/55.png"
+    },
+    {
+        "nombre": "Brody",
+        "img": "../img/Heroes/56.jpg"
+    },
+    {
+        "nombre": "Freya",
+        "img": "../img/Heroes/57.jpg"
+    },
+    {
+        "nombre": "Thamuz",
+        "img": "../img/Heroes/58.png"
+    },
+    {
+        "nombre": "Novaria",
+        "img": "../img/Heroes/59.png"
+    },
+    {
+        "nombre": "Faramis",
+        "img": "../img/Heroes/60.png"
+    },
+    {
+        "nombre": "Hanabi",
+        "img": "../img/Heroes/61.png"
+    },
+    {
+        "nombre": "Yin",
+        "img": "../img/Heroes/62.png"
+    },
+    {
+        "nombre": "Hanzo",
+        "img": "../img/Heroes/63.png"
+    },
+    {
+        "nombre": "Xavier",
+        "img": "../img/Heroes/64.png"
+    },
+    {
+        "nombre": "Badang",
+        "img": "../img/Heroes/65.png"
+    },
+    {
+        "nombre": "Nana (la DIOSA)",
+        "img": "../img/Heroes/66.png"
+    },
+    {
+        "nombre": "Irithiel",
+        "img": "../img/Heroes/67.png"
+    },
+    {
+        "nombre": "Clint",
+        "img": "../img/Heroes/68.jpg"
+    },
+    {
+        "nombre": "Bruno",
+        "img": "../img/Heroes/69.png"
+    },
+    {
+        "nombre": "Claude",
+        "img": "../img/Heroes/70.png"
+    },
+    {
+        "nombre": "Bane",
+        "img": "../img/Heroes/71.png"
+    },
+    {
+        "nombre": "Leomord",
+        "img": "../img/Heroes/72.png"
+    },
+    {
+        "nombre": "Helcurt",
+        "img": "../img/Heroes/73.png"
+    },
+    {
+        "nombre": "Nolan",
+        "img": "../img/Heroes/74.png"
+    },
+    {
+        "nombre": "Valir",
+        "img": "../img/Heroes/75.jpg"
+    },
+    {
+        "nombre": "Kagura",
+        "img": "../img/Heroes/76.png"
+    },
+    {
+        "nombre": "Joy",
+        "img": "../img/Heroes/77.png"
+    },
+    {
+        "nombre": "Harith",
+        "img": "../img/Heroes/78.png"
+    },
+    {
+        "nombre": "Chang'e",
+        "img": "../img/Heroes/79.png"
+    },
+    {
+        "nombre": "Aamon (us)",
+        "img": "../img/Heroes/80.png"
+    },
+    {
+        "nombre": "Hilda",
+        "img": "../img/Heroes/81.png"
+    },
+    {
+        "nombre": "Atlas",
+        "img": "../img/Heroes/82.png"
+    },
+    {
+        "nombre": "Johnson (uber)",
+        "img": "../img/Heroes/83.png"
+    },
+    {
+        "nombre": "Kaja",
+        "img": "../img/Heroes/84.png"
+    },
+    {
+        "nombre": "Aurora",
+        "img": "../img/Heroes/85.jpg"
+    },
+    {
+        "nombre": "Selena",
+        "img": "../img/Heroes/86.png"
+    },
+    {
+        "nombre": "Tigreal",
+        "img": "../img/Heroes/87.jpg"
+    },
+    {
+        "nombre": "Khufra",
+        "img": "../img/Heroes/88.png"
+    },
+    {
+        "nombre": "Arlott",
+        "img": "../img/Heroes/89.png"
+    },
+    {
+        "nombre": "Kadita",
+        "img": "../img/Heroes/90.png"
+    },
+    {
+        "nombre": "Jawhead",
+        "img": "../img/Heroes/91.png"
+    },
+    {
+        "nombre": "Dyrroth",
+        "img": "../img/Heroes/92.png"
+    },
+    {
+        "nombre": "Martis",
+        "img": "../img/Heroes/93.png"
+    },
+    {
+        "nombre": "Saber",
+        "img": "../img/Heroes/94.jpg"
+    },
+    {
+        "nombre": "Cecilion",
+        "img": "../img/Heroes/95.jpg"
+    },
+    {
+        "nombre": "Kimmy",
+        "img": "../img/Heroes/96.png"
+    },
+    {
+        "nombre": "Karrie",
+        "img": "../img/Heroes/97.png"
+    },
+    {
+        "nombre": "Layla",
+        "img": "../img/Heroes/98.jpg"
+    },
+    {
+        "nombre": "Ling",
+        "img": "../img/Heroes/99.png"
+    },
+    {
+        "nombre": "Eudora",
+        "img": "../img/Heroes/100.jpg"
+    },
+    {
+        "nombre": "Lapu Lapu",
+        "img": "../img/Heroes/101.jpg"
+    },
+    {
+        "nombre": "Guinevere",
+        "img": "../img/Heroes/102.png"
+    },
+    {
+        "nombre": "Miya",
+        "img": "../img/Heroes/103.png"
+    },
+    {
+        "nombre": "Hayabusa",
+        "img": "../img/Heroes/104.png"
+    },
+    {
+        "nombre": "Karina",
+        "img": "../img/Heroes/105.jpg"
+    },
+    {
+        "nombre": "Akai",
+        "img": "../img/Heroes/106.png"
+    },
+    {
+        "nombre": "Lunox",
+        "img": "../img/Heroes/107.png"
+    },
+    {
+        "nombre": "Paquito",
+        "img": "../img/Heroes/108.jpg"
+    },
+    {
+        "nombre": "Zilong",
+        "img": "../img/Heroes/109.jpg"
+    },
+    {
+        "nombre": "Gusion",
+        "img": "../img/Heroes/110.png"
+    },
+    {
+        "nombre": "Pharsa",
+        "img": "../img/Heroes/111.png"
+    },
+    {
+        "nombre": "Yve",
+        "img": "../img/Heroes/112.png"
+    },
+    {
+        "nombre": "Grock",
+        "img": "../img/Heroes/113.png"
+    },
+    {
+        "nombre": "Lesley",
+        "img": "../img/Heroes/114.png"
+    },
+    {
+        "nombre": "Franco",
+        "img": "../img/Heroes/115.png"
+    },
+    {
+        "nombre": "Beatrix",
+        "img": "../img/Heroes/116.png"
+    },
+    {
+        "nombre": "Lancelot (ja gei)",
+        "img": "../img/Heroes/117.png"
+    },
+    {
+        "nombre": "Balmond",
+        "img": "../img/Heroes/118.png"
+    },
+    {
+        "nombre": "Chip",
+        "img": "../img/Heroes/119.png"
+    },
+    {
+        "nombre": "Fanny",
+        "img": "../img/Heroes/120.png"
+    },
+    {
+        "nombre": "Esmeralda",
+        "img": "../img/Heroes/121.png"
+    },
+    {
+        "nombre": "Chou",
+        "img": "../img/Heroes/122.png"
+    },
+    {
+        "nombre": "Valentina",
+        "img": "../img/Heroes/123.png"
+    },
+    {
+        "nombre": "Wan Wan",
+        "img": "../img/Heroes/124.png"
+    }
+]
