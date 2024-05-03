@@ -1,0 +1,109 @@
+[
+    {
+        "botas": {
+            "01": "../img/Items/Botas/01.webp",
+            "02": "../img/Items/Botas/02.webp",
+            "03": "../img/Items/Botas/03.webp",
+            "04": "../img/Items/Botas/04.webp",
+            "05": "../img/Items/Botas/05.webp",
+            "06": "../img/Items/Botas/06.webp",
+            "07": "../img/Items/Botas/07.webp"
+        },
+        "items":{
+            "01": "../img/Items/01.webp",
+            "02": "../img/Items/02.webp",
+            "03": "../img/Items/03.webp",
+            "04": "../img/Items/04.webp",
+            "05": "../img/Items/05.webp",
+            "06": "../img/Items/06.webp",
+            "07": "../img/Items/07.webp",
+            "08": "../img/Items/08.webp",
+            "09": "../img/Items/09.webp",
+            "10": "../img/Items/10.webp",
+            "11": "../img/Items/11.webp",
+            "12": "../img/Items/12.webp",
+            "13": "../img/Items/13.webp",
+            "14": "../img/Items/14.webp",
+            "15": "../img/Items/15.webp",
+            "16": "../img/Items/16.webp",
+            "17": "../img/Items/17.webp",
+            "18": "../img/Items/18.webp",
+            "19": "../img/Items/19.webp",
+            "20": "../img/Items/20.webp",
+            "21": "../img/Items/21.webp",
+            "22": "../img/Items/22.webp",
+            "23": "../img/Items/23.webp",
+            "24": "../img/Items/24.webp",
+            "25": "../img/Items/25.webp",
+            "26": "../img/Items/26.webp",
+            "27": "../img/Items/27.webp",
+            "28": "../img/Items/28.webp",
+            "29": "../img/Items/29.webp",
+            "30": "../img/Items/30.webp",
+            "31": "../img/Items/31.webp",
+            "32": "../img/Items/32.webp",
+            "33": "../img/Items/33.webp",
+            "34": "../img/Items/34.webp",
+            "35": "../img/Items/35.webp",
+            "36": "../img/Items/36.webp",
+            "37": "../img/Items/37.webp",
+            "38": "../img/Items/38.webp",
+            "39": "../img/Items/39.webp",
+            "40": "../img/Items/40.webp",
+            "41": "../img/Items/41.webp",
+            "42": "../img/Items/42.webp",
+            "43": "../img/Items/43.webp",
+            "44": "../img/Items/44.webp",
+            "45": "../img/Items/45.webp",
+            "46": "../img/Items/46.webp"
+        },
+        "emblemas": {
+            "principales":{
+                "01": "../img/Emblemas/Principales/01.webp",
+                "02": "../img/Emblemas/Principales/02.webp",
+                "03": "../img/Emblemas/Principales/03.webp",
+                "04": "../img/Emblemas/Principales/04.webp",
+                "05": "../img/Emblemas/Principales/05.webp",
+                "06": "../img/Emblemas/Principales/06.webp",
+                "07": "../img/Emblemas/Principales/07.webp"
+            },
+            "01": {
+                "01": "../img/Emblemas/01/01.webp",
+                "02": "../img/Emblemas/01/02.webp",
+                "03": "../img/Emblemas/01/03.webp",
+                "04": "../img/Emblemas/01/04.webp",
+                "05": "../img/Emblemas/01/05.webp",
+                "06": "../img/Emblemas/01/06.webp",
+                "07": "../img/Emblemas/01/07.webp",
+                "08": "../img/Emblemas/01/08.webp"
+            },
+            "02": {
+                "01": "../img/Emblemas/02/01.webp",
+                "02": "../img/Emblemas/02/02.webp",
+                "03": "../img/Emblemas/02/03.webp",
+                "04": "../img/Emblemas/02/04.webp",
+                "05": "../img/Emblemas/02/05.webp",
+                "06": "../img/Emblemas/02/06.webp",
+                "07": "../img/Emblemas/02/07.webp",
+                "08": "../img/Emblemas/02/08.webp"
+            },
+            "03":{
+                "01": "../img/Emblemas/03/01.webp",
+                "02": "../img/Emblemas/03/02.webp",
+                "03": "../img/Emblemas/03/03.webp",
+                "04": "../img/Emblemas/03/04.webp",
+                "05": "../img/Emblemas/03/05.webp",
+                "06": "../img/Emblemas/03/06.webp",
+                "07": "../img/Emblemas/03/07.webp",
+                "08": "../img/Emblemas/03/08.webp"
+            }
+        },
+        "lineas":{
+            "01": "../img/Lineas/01.png",
+            "02": "../img/Lineas/02.png",
+            "03": "../img/Lineas/03.png",
+            "04": "../img/Lineas/04.png",
+            "05": "../img/Lineas/05.png"
+        }
+    }
+]
