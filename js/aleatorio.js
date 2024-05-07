@@ -58,6 +58,16 @@ function mostrarHeroeAleatorio() {
             itemImg.src = randomItem;
         });
 
+        //linea 
+        const linea = equipamiento.lineas;
+        const lineaKeys = Object.keys(linea);
+        const randomIndexLinea = Math.floor(Math.random() * lineaKeys.length);
+        const randomLineaKey = lineaKeys[randomIndexLinea];
+        const randomLinea = linea[randomLineaKey];
+        const lineaImg = document.getElementById('linea-img')
+
+        lineaImg.src = randomLinea;
+
 
     });
 }
