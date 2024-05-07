@@ -68,6 +68,44 @@ function mostrarHeroeAleatorio() {
 
         lineaImg.src = randomLinea;
 
+        //emblema principal
+        const emblemaP = equipamiento.emblemas.principales;
+        const emblemaPKeys = Object.keys(emblemaP);
+        const randomIndexEmblemaP = Math.floor(Math.random() * emblemaPKeys.length);
+        const randomEmblemaPKey = emblemaPKeys[randomIndexEmblemaP];
+        const radomEmblemaP = emblemaP[randomEmblemaPKey];
+        const emblemaPImg = document.getElementById('emblema-principal');
 
+        emblemaPImg.src = radomEmblemaP;
+
+        //emblema 1
+        const emblema1 = equipamiento.emblemas.E01;
+        const emblema1Keys = Object.keys(emblema1);
+        const randomIndexEmblema1 = Math.floor(Math.random() * emblema1Keys.length);
+        const randomEmblema1Key = emblema1Keys[randomIndexEmblema1];
+        const randomEmblema1 = emblema1[randomEmblema1Key];
+        const emblema1Img = document.getElementById('emblema01');
+
+        emblema1Img.src = randomEmblema1;
+
+        //emblema 2
+        const emblema2 = equipamiento.emblemas.E02;
+        const emblema2Keys = Object.keys(emblema2);
+        const randomIndexEmblema2 = Math.floor(Math.random() * emblema2Keys.length);
+        const randomEmblema2Key = emblema2Keys[randomIndexEmblema2];
+        const randomEmblema2 = emblema2[randomEmblema2Key];
+        const emblema2Img = document.getElementById('emblema02');
+
+        emblema2Img.src = randomEmblema2;
+
+        //emblema 3
+        const emblema3 = equipamiento.emblemas.E03;
+        const emblema3Keys = Object.keys(emblema3);
+        const randomIndexEmblema3 = Math.floor(Math.random() * emblema3Keys.length);
+        const randomEmblema3Key = emblema3Keys[randomIndexEmblema3];
+        const randomEmblema3 = emblema3[randomEmblema3Key];
+        const emblema3Img = document.getElementById('emblema03');
+
+        emblema3Img.src = randomEmblema3;
     });
 }
