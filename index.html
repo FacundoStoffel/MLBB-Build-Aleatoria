@@ -1,24 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/styles.css">
     <title>Build Aleatoria</title>
 </head>
-<body> 
-    <h1>Creador de builds aleatorias</h1>
-    <div class="heroe-nombre">
-        <img class="heroe" src="./img/Heroes/03.png"></img>
-        <p class="nombre-heroe">Floryn</p>
+
+<body>
+    <h1>Creador de builds aleatorias MLBB</h1>
+    <div class="inicio">
+        <div class="heroe-nombre">
+            <img id="hero-img" class="heroe" src="./img/Heroes/03.png"></img>
+            <p id="hero-name" class="nombre-heroe">Floryn</p>
+        </div>
+        <div>
+            <!-- <p>Linea</p> -->
+            <img class="linea" src="./img/Lineas/03.png">
+        </div>
     </div>
     <div class="equipamiento">
-        <img class="item" src="./img/Items/04.webp">
-        <img class="item" src="./img/Items/04.webp">
-        <img class="item" src="./img/Items/04.webp">
-        <img class="item" src="./img/Items/04.webp">
-        <img class="item" src="./img/Items/04.webp">
-        <img class="item" src="./img/Items/04.webp">
+        <img id="botas-img" class="item" src="./img/Items/Botas/01.webp">
+        <img class="item item-img" src="./img/Items/04.webp">
+        <img class="item item-img" src="./img/Items/04.webp">
+        <img class="item item-img" src="./img/Items/04.webp">
+        <img class="item item-img" src="./img/Items/04.webp">
+        <img class="item item-img" src="./img/Items/04.webp">
     </div>
     <div class="emblemas">
         <img class="emblema-principal" src="./img/Emblemas/Principales/02.webp">
@@ -27,7 +35,9 @@
         <img class="emblema" src="./img/Emblemas/02/01.webp">
     </div>
     <div>
-        <img class="linea" src="./img/Lineas/03.png">
+        <button onclick="mostrarHeroeAleatorio()" class="boton">Aleatorio</button>
     </div>
+    <script src="./js/aleatorio.js"></script>
 </body>
+
 </html>

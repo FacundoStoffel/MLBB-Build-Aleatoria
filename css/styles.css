@@ -6,3 +6,37 @@ body{
     padding: 0 5vh;
 }
 
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10vh;
+}
+
+.inicio{
+    display: flex;
+    align-items: center;
+}
+
+.heroe-nombre{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.heroe{
+    margin: 0 40px 0 0;
+    border: 4px solid #c4c56b;
+    width: 180px;
+    min-width: 180px;
+}
+
+.nombre-heroe{
+    font-size: 30px;
+    margin: 0;
+}
+
+.linea{
+    width: 70px;
+    height: 70px;
+    right: 0;
+    margin: auto 300px;
+}
