@@ -35,9 +35,60 @@ h1{
     margin: 0;
 }
 
+.div-linea{
+    align-items: center;
+    margin: auto;
+}
+
 .linea{
     width: 70px;
     height: 70px;
     right: 0;
     margin: auto 300px;
+}
+
+.equipamiento{
+    margin: 20px;
+    margin-left: 0;
+}
+
+.item{
+    margin: 5px;
+}
+
+.emblemas{
+    margin: 30px;
+    margin-left: 0;
+}
+
+.emblema{
+    margin: 10px;
+}
+
+#emblema03{
+    width: 80px;
+}
+
+#emblema-principal{
+    width: 80px;
+}
+
+.div-boton{
+    text-align: center;
+}
+
+.boton{
+    font-size: 20px;
+    background-color: #077091;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.boton:hover{
+    transform: scale(1.1);
 }
