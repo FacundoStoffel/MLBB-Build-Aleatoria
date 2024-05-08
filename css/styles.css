@@ -92,3 +92,27 @@ h1{
 .boton:hover{
     transform: scale(1.1);
 }
+
+@media(max-width: 800px){
+    .inicio{
+        flex-wrap: wrap;
+    }
+
+    .linea{
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .equipamiento{
+        text-align: center;
+    }
+
+    .emblemas{
+       text-align: center;
+       margin: auto;
+    }
+
+    .boton{
+        margin: 50px;
+    }
+}
